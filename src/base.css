@@ -1,0 +1,7 @@
+div#content div {
+  display: none;
+}
+
+div#content div#intro {
+  display: block;
+}
